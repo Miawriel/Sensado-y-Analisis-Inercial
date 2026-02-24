@@ -1,5 +1,10 @@
 # Identificación de personas por caminata usando landmarks corporales 🚶‍♀️
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Sensors](https://img.shields.io/badge/IMU-Sensors-green)
+![Status](https://img.shields.io/badge/Status-Academic%20Project-lightgrey)
+
 Este proyecto forma parte de la Maestría en Ciencias de la Computación y
 consiste en desarrollar un sistema para la identificación de personas a
 partir de secuencias de caminata, utilizando landmarks corporales obtenidos
